@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "The Secrets of JavaScript",
+    "cover": "https://example.com/images/js-cover.jpg",
+    "author": "Alice Johnson",
+    "author_img": "https://example.com/images/alice.jpg",
+    "posted_date": "2025-07-01",
+    "reading_time": 5,
+    "hashtag": ["#JavaScript", "#Programming", "#WebDev"]
+  },
+  {
+    "id": "2",
+    "title": "Understanding Async/Await in Depth",
+    "cover": "https://example.com/images/async-cover.jpg",
+    "author": "Mark Robinson",
+    "author_img": "https://example.com/images/mark.jpg",
+    "posted_date": "2025-06-28",
+    "reading_time": 7,
+    "hashtag": ["#AsyncAwait", "#JavaScript", "#CodingTips"]
+  },
+  {
+    "id": "3",
+    "title": "Mastering React Hooks",
+    "cover": "https://example.com/images/react-hooks.jpg",
+    "author": "Samantha Lee",
+    "author_img": "https://example.com/images/samantha.jpg",
+    "posted_date": "2025-07-05",
+    "reading_time": 6,
+    "hashtag": ["#ReactJS", "#Hooks", "#Frontend"]
+  },
+  {
+    "id": "4",
+    "title": "Why Tailwind CSS Is a Game Changer",
+    "cover": "https://example.com/images/tailwind.jpg",
+    "author": "David Kim",
+    "author_img": "https://example.com/images/david.jpg",
+    "posted_date": "2025-07-03",
+    "reading_time": 4,
+    "hashtag": ["#TailwindCSS", "#CSS", "#Design"]
+  },
+  {
+    "id": "5",
+    "title": "The Power of Node.js in Backend Development",
+    "cover": "https://example.com/images/nodejs.jpg",
+    "author": "Emily Clark",
+    "author_img": "https://example.com/images/emily.jpg",
+    "posted_date": "2025-07-07",
+    "reading_time": 8,
+    "hashtag": ["#NodeJS", "#Backend", "#JavaScript"]
+  }
+]
